@@ -1,4 +1,4 @@
-package com.gorilladesk;
+package com.gorilladesk.app;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
